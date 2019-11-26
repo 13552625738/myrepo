@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="205f3616-b07e-4b7c-a3c7-fa0df4c3b004" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jeecg-boot-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TyWBzNkG4rqzZRRXzgimOtDEqF" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.jeecg.modules.demo.czl.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\temp\jeecg-boot-master\jeecg-boot-master\jeecg-boot\jeecg-boot-module-system\src\main\java\org\jeecg\modules\demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JeecgApplication">
+    <configuration name="DySmsHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jeecg.common.util.DySmsHelper" />
+      <module name="jeecg-boot-base-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jeecg.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jeecg.JeecgApplication" />
+      <module name="jeecg-boot-module-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jeecg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgOneToMainUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jeecg.JeecgOneToMainUtil" />
+      <module name="jeecg-boot-module-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jeecg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demos.demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeecg-boot-module-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jeecg.modules.demo.czl.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jeecg.modules.demo.czl.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.jeecg.modules.demo.czl.controller.Demos" />
+      <option name="METHOD_NAME" value="demo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tesss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeecg-boot-module-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jeecg.modules.demo.test.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jeecg.modules.demo.test.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.jeecg.modules.demo.test.controller.tesss" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeecgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jeecg-boot-module-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.jeecg.JeecgApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JeecgApplication" />
+        <item itemvalue="Application.DySmsHelper" />
+        <item itemvalue="JUnit.tesss" />
+        <item itemvalue="JUnit.Demos.demo" />
+        <item itemvalue="Application.JeecgOneToMainUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205f3616-b07e-4b7c-a3c7-fa0df4c3b004" name="Default Changelist" comment="" />
+      <created>1574432683703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574432683703</updated>
+      <workItem from="1574432687776" duration="49519000" />
+      <workItem from="1574561025279" duration="230000" />
+      <workItem from="1574561301307" duration="29274000" />
+      <workItem from="1574684766469" duration="3310000" />
+      <workItem from="1574716511850" duration="673000" />
+      <workItem from="1574719341369" duration="17247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jeecg-boot-module-system/src/main/java/org/jeecg/JeecgApplication.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
