@@ -34,8 +34,8 @@ public class DySmsHelper {
 
     // TODO 此处需要替换成开发者自己的AK(在阿里云访问控制台寻找)
     //
-    static  String accessKeyId="LTAI4FsX1Eq2PPAYuD94fcHu";
-    static  String accessKeySecret="utIQqe0MPrM2SlEI5nUSmCO8vnm012";
+    static  String accessKeyId="";
+    static  String accessKeySecret="";
 
     public static void setAccessKeyId(String accessKeyId) {
         DySmsHelper.accessKeyId = accessKeyId;
